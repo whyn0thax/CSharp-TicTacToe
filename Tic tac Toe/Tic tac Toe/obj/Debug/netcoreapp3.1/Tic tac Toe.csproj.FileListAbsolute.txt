@@ -1,0 +1,16 @@
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\obj\Debug\netcoreapp3.1\Tic tac Toe.csprojAssemblyReference.cache
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\obj\Debug\netcoreapp3.1\Tic_tac_Toe.Form1.resources
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\obj\Debug\netcoreapp3.1\Tic tac Toe.csproj.GenerateResource.cache
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\obj\Debug\netcoreapp3.1\Tic tac Toe.AssemblyInfoInputs.cache
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\obj\Debug\netcoreapp3.1\Tic tac Toe.AssemblyInfo.cs
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\obj\Debug\netcoreapp3.1\Tic tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\bin\Debug\netcoreapp3.1\Tic tac Toe.exe
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\bin\Debug\netcoreapp3.1\Tic tac Toe.deps.json
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\bin\Debug\netcoreapp3.1\Tic tac Toe.runtimeconfig.json
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\bin\Debug\netcoreapp3.1\Tic tac Toe.runtimeconfig.dev.json
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\bin\Debug\netcoreapp3.1\Tic tac Toe.dll
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\bin\Debug\netcoreapp3.1\Tic tac Toe.pdb
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\obj\Debug\netcoreapp3.1\Tic tac Toe.dll
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\obj\Debug\netcoreapp3.1\Tic tac Toe.pdb
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\obj\Debug\netcoreapp3.1\Tic tac Toe.genruntimeconfig.cache
+C:\Users\49177\source\repos\Tic tac Toe\Tic tac Toe\obj\Debug\netcoreapp3.1\Tic_tac_Toe.Properties.Resources.resources
