@@ -1,6 +1,6 @@
 *.log
 *.tmp
-
+*.exe
 # User-specific files
 *.rsuser
 *.suo
